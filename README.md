@@ -15,11 +15,9 @@ Sistemas de baixo nível, concorrência e ferramentas de rede.
 - **[costa-esmeralda-guide](https://github.com/maarcelomdrs/costa-esmeralda-guide)** — Plataforma web para gerenciamento e turismo local.
 
 #### Atividade
+#### Telemetria & Atividade
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maarcelomdrs&theme=github-compact&area=true&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff" width="100%" alt="Activity Graph" />
-</p>
-
+[![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maarcelomdrs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/maarcelomdrs)
 ---
 
 <a href="https://linkedin.com/in/maarcelomdrs">
