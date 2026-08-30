@@ -16,6 +16,14 @@ Sistemas de baixo nível, concorrência e ferramentas de rede.
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maarcelomdrs/maarcelomdrs/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maarcelomdrs/maarcelomdrs/output/github-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/maarcelomdrs/maarcelomdrs/output/github-snake-dark.svg" width="100%">
+</picture>
+
+---
+
 <a href="https://linkedin.com/in/maarcelomdrs">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
